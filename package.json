@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/takanakahiko/node-csv2rdf/issues"
   },
-  "homepage": "https://github.com/takanakahiko/node-csv2rdf#readme"
+  "homepage": "https://github.com/takanakahiko/node-csv2rdf#readme",
+  "devDependencies": {
+    "ts-node": "^8.6.2",
+    "typescript": "^3.7.5"
+  }
 }
