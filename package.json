@@ -19,7 +19,7 @@
   "homepage": "https://github.com/takanakahiko/node-csv2rdf#readme",
   "devDependencies": {
     "@types/n3": "1.1.6",
-    "ts-node": "8.9.1",
+    "ts-node": "8.10.2",
     "typescript": "3.8.3"
   },
   "dependencies": {
